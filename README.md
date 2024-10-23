@@ -22,7 +22,12 @@
 
 ## 💡동작 환경
 Visual Studio Community  
- 
+
+<br>
+
+## 💡프로젝트 임포트
+비주얼 스튜디오로 임포트 가능한 프로젝트는 https://github.com/shoveller/YCCSample 에 저장되어 있습니다.
+
 <br>
 
 ## 💡문의 및 정오표
