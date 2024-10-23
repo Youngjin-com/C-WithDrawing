@@ -21,7 +21,7 @@
 <br>
 
 ## 💡동작 환경
-Visual Studio Community 2019  
+Visual Studio Community  
  
 <br>
 
